@@ -27,7 +27,6 @@ This repository contains Java code for various 1-D array operations, including d
 
 5. **Question 5:** Given an array. Find the first peak element in the array.
    - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/1-D%20ARRAY/Ques05.java)
-...
 
 ## Contributing
 
