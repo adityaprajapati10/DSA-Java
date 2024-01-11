@@ -1,5 +1,5 @@
-//Givev a matrix avd a couple of coordivate pairs (x1 , y1) avd (x2 , y2) respectively. 
-//Returv the sum of the rectavgle formed usivg these coordivates as opposite corvers.
+//Given a matrix avd a couple of coordinate pairs (x1 , y1) avd (x2 , y2) respectively. 
+//Return the sum of the rectangle formed usivg these coordinates as opposite corvers.
 
 //Time Complexity = O(m*n)
 //Space Complexity = O(1)
