@@ -5,10 +5,14 @@ This repository contains Java code for various 1-D array operations, including d
 ## Contents
 
 1. Duplicate - Java code to detect duplicate elements in an array.
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/1-D%20ARRAY/Duplicate.java)
 2. MissingNo - Java code to find the missing number in a sequence.
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/1-D%20ARRAY/MissingNo.java)
 3. Palindrome - Java code to check if an array is a palindrome.
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/1-D%20ARRAY/Palindrome.java)
 4. ReversalArray - Java code to reverse the elements of an array.
-5. Practice Questions - Solutions for 5 additional practice questions.
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/1-D%20ARRAY/ReversalArray.java)
+8. Practice Questions - Solutions for 5 additional practice questions.
 
 
 ## Practice Questions
