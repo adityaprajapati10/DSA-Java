@@ -13,7 +13,7 @@ This repository contains Java code for various Searchig operations, including Li
 4. Higher Bound - Java code to find the last occurrence in the sorted array
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Searching/HigherBound.java)
 5. Lower Bound - java code to find the first Ocurrence of target in the sorted array
-   - Code :
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Searching/LowerBound.java)
 6. Practice Questions - Solutions for 5 additional practice questions.
 
 
