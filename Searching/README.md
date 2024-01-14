@@ -11,7 +11,7 @@ This repository contains Java code for various Searchig operations, including Li
 3. Square root - Java code to calculates square root using binary search.
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Searching/SquareRoot.java)
 4. Higher Bound - Java code to find the last occurrence in the sorted array
-   - Code : 
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Searching/HigherBound.java)
 5. Lower Bound - java code to find the first Ocurrence of target in the sorted array
    - Code :
 6. Practice Questions - Solutions for 5 additional practice questions.
