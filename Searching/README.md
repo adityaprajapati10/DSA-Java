@@ -23,7 +23,7 @@ This repository contains Java code for various Searchig operations, including Li
    - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Searching/Ques01.java)
 
 2. **Question 2:**
-   - Solution: 
+   - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Searching/Ques02.java)
 
 3. **Question 3:** 
    - Solution: 
