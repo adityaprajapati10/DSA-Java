@@ -19,8 +19,8 @@ This repository contains Java code for various Searchig operations, including Li
 
 ## Practice Questions
 
-1. **Question 1:** 
-   - Solution: 
+1. **Question 1:** Given a sorted binary array, efficiently count the total number of 1’s in it.
+   - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Searching/Ques01.java)
 
 2. **Question 2:**
    - Solution: 
