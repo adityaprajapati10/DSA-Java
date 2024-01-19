@@ -5,7 +5,7 @@ This repository contains Java code for various Sorting operations, including Bub
 ## Contents
 
 1. Linear search
-   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Searching/LinearSearch.java)
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/BubbleSort.java)
 2. Insertion Sort
    - Code : 
 3. Selection Sort 
