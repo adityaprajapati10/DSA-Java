@@ -7,7 +7,7 @@ This repository contains Java code for various Sorting operations, including Bub
 1. Bubble sort
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/BubbleSort.java)
 2. Insertion Sort
-   - Code : 
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/InsertionSort.java)
 3. Selection Sort 
    - Code :
 6. Practice Questions - Solutions for 5 additional practice questions.
