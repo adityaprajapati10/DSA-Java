@@ -9,7 +9,7 @@ This repository contains Java code for various Sorting operations, including Bub
 2. Insertion Sort
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/InsertionSort.java)
 3. Selection Sort 
-   - Code :
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/SelectionSort.java)
 6. Practice Questions - Solutions for 5 additional practice questions.
 
 
