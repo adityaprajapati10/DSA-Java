@@ -16,7 +16,7 @@ This repository contains Java code for various Sorting operations, including Bub
 ## Practice Questions
 
 1. **Question 1:** Write a program to sort an array in descending order using bubble sort..
-   - Solution:
+   - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/Ques01.java)
      
 2. **Question 2:** WAP to sort an array in descending order using selection sort...
    - Solution: 
