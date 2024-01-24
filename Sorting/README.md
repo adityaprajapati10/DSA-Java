@@ -22,7 +22,7 @@ This repository contains Java code for various Sorting operations, including Bub
    - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/Ques02.java)
 
 3. **Question 3:** WAP to sort an array in decreasing order using insertion sort..
-   - Solution: 
+   - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/Ques03.java)
      
 4. **Question 4:** Find out how many pass would be required to sort the following array in decreasing order..
    - Solution: 
