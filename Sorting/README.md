@@ -25,7 +25,7 @@ This repository contains Java code for various Sorting operations, including Bub
    - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/Ques03.java)
      
 4. **Question 4:** Find out how many pass would be required to sort the following array in decreasing order..
-   - Solution: 
+   - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/Ques04.java)
 
 5. **Question 5:** Find out the number of iterations to sort the array in descending order using selection sort..
    - Solution: 
