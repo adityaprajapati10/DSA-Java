@@ -28,7 +28,7 @@ This repository contains Java code for various Sorting operations, including Bub
    - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/Ques04.java)
 
 5. **Question 5:** Find out the number of iterations to sort the array in descending order using selection sort..
-   - Solution: 
+   - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Sorting/Ques05.java)
 ## Contributing
 
 If you have improvements or additional features to add, feel free to open an issue or submit a pull request.
