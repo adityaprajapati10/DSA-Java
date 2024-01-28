@@ -9,8 +9,8 @@ This repository contains Java code for various solutions of practice questions r
 1. **Question 1:** WAP to print binary representation of given a number .
    - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Number%20System/Ques01.java)
 
-2. **Question 2:** 
-   - Solution:
+2. **Question 2:** WAP to predict whether it is a power of two or not of given a number ‘n’. 
+   - Solution:[Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Number%20System/Ques02.java)
 
 3. **Question 3:** 
    - Solution:
