@@ -1,3 +1,7 @@
+//Given a number. Using bit manipulation, check whether it is odd or even.
+// Input 8, Even
+// 3, False
+
 // Approach 
 // We know that any odd number in its binary representation has the last digit (from right) as 1
 // We used that concept and simply used the AND operator and operated the given number with 1
