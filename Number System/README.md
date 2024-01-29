@@ -12,8 +12,8 @@ This repository contains Java code for various solutions of practice questions r
 2. **Question 2:** WAP to predict whether it is a power of two or not of given a number ‘n’. 
    - Solution:[Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Number%20System/Ques02.java)
 
-3. **Question 3:** 
-   - Solution:
+3. **Question 3:** WAP to check whether it is odd or even of given a number. Using bit manipulation, .
+   - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Number%20System/Ques03Optimize.java)
 
 4. **Question 4:** 
    - Solution: 
