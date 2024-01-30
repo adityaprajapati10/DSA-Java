@@ -15,8 +15,8 @@ This repository contains Java code for various solutions of practice questions r
 3. **Question 3:** WAP to check whether it is odd or even of given a number. Using bit manipulation, .
    - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Number%20System/Ques03Optimize.java)
 
-4. **Question 4:** 
-   - Solution: 
+4. **Question 4:** WAP to count the number of set bits in that number without using an extra space of given a number.
+   - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Number%20System/Ques04.java)
 
 5. **Question 5:** 
    - Solution: 
