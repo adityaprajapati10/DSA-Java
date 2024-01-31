@@ -18,8 +18,8 @@ This repository contains Java code for various solutions of practice questions r
 4. **Question 4:** WAP to count the number of set bits in that number without using an extra space of given a number.
    - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Number%20System/Ques04.java)
 
-5. **Question 5:** 
-   - Solution: 
+5. **Question 5:** Find the element in an integer array that occurs an odd number of times in linear time and without using extra memory.
+   - Solution: [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Number%20System/Ques05.java)
 
 ## Contributing
 
