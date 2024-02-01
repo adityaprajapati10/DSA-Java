@@ -1,4 +1,4 @@
-# Java 1-D Array Operations
+# Number System(Bit manipulation )
 
 This repository contains Java code for various solutions of practice questions related to Number System .
 
