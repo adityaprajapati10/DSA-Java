@@ -13,11 +13,11 @@ This repository contains Java code for various  Recursion Operations, including 
 4. Binary Search using Recursion - Java code to implement Binary Search using Recursion.
    - Code : [Link to code]
 5. Power Of Number - Java code to calculate power of number using recursion.
-   -code : [Link to code]
+   - Code : [Link to code]
 6. Power Of Big Integer - Java code to calculate power of Big Integer.
-   -code : [Link to code]
+   - Code : [Link to code]
 7. Print Multiples of number - WAP that takes an integer 'num' and 'terms' as input, and prints the multiples of 'num' up to 'terms' using recursion.
-   -code : [Link to code]
+   - Code : [Link to code]
    
 8. Practice Questions - Solutions for 5 additional practice questions.
 
