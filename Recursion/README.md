@@ -7,7 +7,7 @@ This repository contains Java code for various  Recursion Operations, including 
 1. Factorial of Num - Java code to calculate factorail of number using recursion .
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/FactorialNum.java)
 2. Fibonacci of Num - Java code to find Fibonacci of given number.
-   - Code : [Link to code]
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/FibonacciNo.java)
 3. Count Ways - Count the number of ways a person standing at the bottom of n stairs can reach the top by climbing either 1 or 2 stairs at a time.
    - Code : [Link to code]
 4. Binary Search using Recursion - Java code to implement Binary Search using Recursion.
@@ -15,9 +15,9 @@ This repository contains Java code for various  Recursion Operations, including 
 5. Power Of Number - Java code to calculate power of number using recursion.
    -code : [Link to code]
 6. Power Of Big Integer - Java code to calculate power of Big Integer.
-   -code: [Link to code]
+   -code : [Link to code]
 7. Print Multiples of number - WAP that takes an integer 'num' and 'terms' as input, and prints the multiples of 'num' up to 'terms' using recursion.
-   -code: [Link to code]
+    -code : [Link to code]
    
 8. Practice Questions - Solutions for 5 additional practice questions.
 
