@@ -11,7 +11,7 @@ This repository contains Java code for various  Recursion Operations, including 
 3. Count Ways - Count the number of ways a person standing at the bottom of n stairs can reach the top by climbing either 1 or 2 stairs at a time.
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/CountWays.java)
 4. Binary Search using Recursion - Java code to implement Binary Search using Recursion.
-   - Code : [Link to code]
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/BinaryaSearchRecur.java)
 5. Power Of Number - Java code to calculate power of number using recursion.
    - Code : [Link to code]
 6. Power Of Big Integer - Java code to calculate power of Big Integer.
