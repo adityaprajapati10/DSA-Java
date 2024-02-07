@@ -18,7 +18,7 @@ This repository contains Java code for various  Recursion Operations, including 
 6. Power Of Big Integer - Java code to calculate power of Big Integer.
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/PowerOfBigNum.java)
 7. Print Multiples of number - WAP that takes an integer 'num' and 'terms' as input, and prints the multiples of 'num' up to 'terms' using recursion.
-   - Code : [Link to code]
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/PrintMultiples.java)
    
 8. Practice Questions - Solutions for 5 additional practice questions.
 
