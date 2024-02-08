@@ -29,7 +29,7 @@ This repository contains Java code for various  Recursion Operations, including 
    - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/Ques01.java)
 
 2. **Question 2:** WAP to Find the sum of natural numbers till n but with alternate signs(+, -).
-   - Solution: [Link to Code]
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/Ques02.java)
 
 3. **Question 3:** WAP Print the max value of the array.
    - Solution: [Link to Code]
