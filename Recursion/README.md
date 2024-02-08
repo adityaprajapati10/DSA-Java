@@ -26,7 +26,7 @@ This repository contains Java code for various  Recursion Operations, including 
 ## Practice Questions
 
 1. **Question 1:** WAP to find out the sum of its digits using recursion for a given an integer.
-   - Solution: [Link to Code]
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/Ques01.java)
 
 2. **Question 2:** WAP to Find the sum of natural numbers till n but with alternate signs(+, -).
    - Solution: [Link to Code]
