@@ -32,7 +32,7 @@ This repository contains Java code for various  Recursion Operations, including 
    - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/Ques02.java)
 
 3. **Question 3:** WAP Print the max value of the array.
-   - Solution: [Link to Code]
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/Ques03.java)
 
 4. **Question 4:** WAP to find the sum of the values of the array.
    - Solution: [Link to Code]
