@@ -38,7 +38,7 @@ This repository contains Java code for various  Recursion Operations, including 
    - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Recursion/Ques04.java)
 
 5. **Question 5:** Print whether the given number is an Armstrong number by checking if the sum of each digit raised to the power of the total number of digits equals the original number.
-   - Solution: [Link to Code]
+   - Solution: [Link to Code]()
 ## Contributing
 
 If you have improvements or additional features to add, feel free to open an issue or submit a pull request.
