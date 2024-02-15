@@ -11,7 +11,7 @@ This File contains Java code for various  Backtacking Operations, including Tili
 3. Rat in maze - Calculate rat's maze traversal ways in an 'n x n' matrix with blocked paths represented as '-1' and open paths as '0', considering only rightward and downward movements.
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Backtacking/RatInMaze.java)
 4. N Queens - Write a Java program to solve the N-Queens problem using backtracking. Place n queens on an n x n chessboard such that no two queens attack each other. Print the board configuration if a solution exists; otherwise, indicate no solution.
-   - Code : [Link to code]
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Backtacking/nQueenProblem.java)
 5. Solving a Sudoko - Java program solving Sudoku puzzle with backtracking, determining existence of solution and printing the solved grid if found.
    - Code : [Link to code]
    
