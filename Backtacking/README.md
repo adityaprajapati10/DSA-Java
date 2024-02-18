@@ -24,7 +24,7 @@ This File contains Java code for various  Backtacking Operations, including Tili
    - Solution: [Link to Code]
      
 2. **Question 2:** Given an integer array arr, print all the possible permutations of the given array. The array will only contain non repeating elements.
-   - Solution: [Link to Code]
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Backtacking/Ques02.java)
 
 3. **Question 3:** Given a collection of numbers, nums, that might contain duplicates, return all possible unique permutations in any order.
    - Solution: [Link to Code]
