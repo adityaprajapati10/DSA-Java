@@ -33,7 +33,7 @@ This File contains Java code for various  Backtacking Operations, including Tili
    - Solution: [Link to Code]
 
 5. **Question 5:** Return the count of distinct solutions for the n-queens puzzle given an integer n.
-   - Solution: [Link to Code]
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Backtacking/CountWayNQueen.java)
 ## Contributing
 
 If you have improvements or additional features to add, feel free to open an issue or submit a pull request.
