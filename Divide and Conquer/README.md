@@ -6,7 +6,7 @@ This repository contains Java code for various Divide and Conquer operations, in
 1. Merge sort - Java code to implement merge sort in an array.
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Divide%20and%20Conquer/merge.java)
 2. Quick sort - Java code to implement quick sort in an array.
-   - Code : [Link to code]
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Divide%20and%20Conquer/quick.java)
 3. Randomized Quick Sort - Java code to implement Randomized Quick Sort in an array.
    - Code : [Link to code]
 
