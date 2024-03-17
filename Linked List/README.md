@@ -9,8 +9,8 @@ This repository contains Java code for various Linked List Operation, like Singl
 . Practice Questions - Solutions for 5 additional practice questions.
 ## Practice Questions
 
-1. **Question 1:** 
-   - Solution: [Link to Code]
+1. **Question 1:** Given a linked list and a key ‘X‘ in, the task is to check if X is present in the linked list or not.
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques01.java)
 
 2. **Question 2:** 
    - Solution: [Link to Code]
