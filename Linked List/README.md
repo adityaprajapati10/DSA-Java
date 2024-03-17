@@ -13,7 +13,7 @@ This repository contains Java code for various Linked List Operation, like Singl
    - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques01.java)
 
 2. **Question 2:** Insert a node at the given position in a linked list.
-   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques02.java)0
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques02.java)
 
 3. **Question 3:** 
    - Solution: [Link to Code]
