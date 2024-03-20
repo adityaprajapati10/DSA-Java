@@ -15,8 +15,8 @@ This repository contains Java code for various Linked List Operation, like Singl
 2. **Question 2:** Insert a node at the given position in a linked list.
    - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques02.java)
 
-3. **Question 3:** 
-   - Solution: [Link to Code]
+3. **Question 3:**  Given the head of a sorted linked list, delete all duplicates such that each element appears only once
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques03.java)
 
 4. **Question 4:** 
    - Solution: [Link to Code]
