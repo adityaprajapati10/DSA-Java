@@ -18,8 +18,8 @@ This repository contains Java code for various Linked List Operation, like Singl
 3. **Question 3:**  Given the head of a sorted linked list, delete all duplicates such that each element appears only once
    - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques03.java)
 
-4. **Question 4:** 
-   - Solution: [Link to Code]
+4. **Question 4:** Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques04.java)
 
 5. **Question 5:** 
    - Solution: [Link to Code]
