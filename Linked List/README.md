@@ -21,8 +21,8 @@ This repository contains Java code for various Linked List Operation, like Singl
 4. **Question 4:** Given the head of a singly linked list, return true if it is a palindrome or false otherwise.
    - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques04.java)
 
-5. **Question 5:** 
-   - Solution: [Link to Code]
+5. **Question 5:** Given two numbers represented by two lists, write a function that returns the sum list.
+   - Solution: [Link to Code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Linked%20List/Ques05.java)
 
 ## Contributing
 
