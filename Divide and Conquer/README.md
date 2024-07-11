@@ -12,11 +12,11 @@ This repository contains Java code for various Divide and Conquer operations, in
 4. Inversion Count - Java code to count total number 0f inversions in array(Merge sort Application)
    - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Divide%20and%20Conquer/InversionCount.java)
 5. kth largest element - Java code to find kth largest element in array without sorting( Quick sort Applicaton)
-   -Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Divide%20and%20Conquer/K_th_largest.java)
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Divide%20and%20Conquer/K_th_largest.java)
 6. kth smallest element - Java code to find kth smallest element in array without sorting( Quick sort Applicaton)
-   -Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Divide%20and%20Conquer/K_th_smallest.java)
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Divide%20and%20Conquer/K_th_smallest.java)
 7. Find Min & Max - Java code to find the minimum and maximum in the array without sorting the array.
-   -Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Divide%20and%20Conquer/findMinMax.java)
+   - Code : [Link to code](https://github.com/adityaprajapati10/DSA-Java/blob/main/Divide%20and%20Conquer/findMinMax.java)
 
 . Practice Questions - Solutions for 5 additional practice questions.
 ## Practice Questions
